@@ -9,3 +9,5 @@
 * Peel the avocado
 . slice and squeeze lime/lemon
 . mix together
+. Add salt
+
